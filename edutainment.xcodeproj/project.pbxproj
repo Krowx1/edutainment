@@ -32,6 +32,102 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		1B98A9A12D0C811900306098 /* Round */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Round;
+			sourceTree = "<group>";
+		};
+		1B98A9A22D0C811900306098 /* Round (outline) */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "Round (outline)";
+			sourceTree = "<group>";
+		};
+		1B98A9A32D0C811900306098 /* Round without details */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "Round without details";
+			sourceTree = "<group>";
+		};
+		1B98A9A42D0C811900306098 /* Round without details (outline) */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "Round without details (outline)";
+			sourceTree = "<group>";
+		};
+		1B98A9A52D0C811900306098 /* Square */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Square;
+			sourceTree = "<group>";
+		};
+		1B98A9A62D0C811900306098 /* Square (outline) */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "Square (outline)";
+			sourceTree = "<group>";
+		};
+		1B98A9A72D0C811900306098 /* Square without details */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "Square without details";
+			sourceTree = "<group>";
+		};
+		1B98A9A82D0C811900306098 /* Square without details (outline) */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "Square without details (outline)";
+			sourceTree = "<group>";
+		};
+		1B98A9A92D0C811900306098 /* PNG */ = {
+			isa = PBXGroup;
+			children = (
+				1B98A9A12D0C811900306098 /* Round */,
+				1B98A9A22D0C811900306098 /* Round (outline) */,
+				1B98A9A32D0C811900306098 /* Round without details */,
+				1B98A9A42D0C811900306098 /* Round without details (outline) */,
+				1B98A9A52D0C811900306098 /* Square */,
+				1B98A9A62D0C811900306098 /* Square (outline) */,
+				1B98A9A72D0C811900306098 /* Square without details */,
+				1B98A9A82D0C811900306098 /* Square without details (outline) */,
+			);
+			path = PNG;
+			sourceTree = "<group>";
+		};
+		1B98A9AA2D0C811900306098 /* Spritesheet */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Spritesheet;
+			sourceTree = "<group>";
+		};
+		1B98A9AB2D0C811900306098 /* Vector */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Vector;
+			sourceTree = "<group>";
+		};
+		1B98A9AC2D0C811900306098 /* kenney_animal-pack-redux */ = {
+			isa = PBXGroup;
+			children = (
+				1B98A9A92D0C811900306098 /* PNG */,
+				1B98A9AA2D0C811900306098 /* Spritesheet */,
+				1B98A9AB2D0C811900306098 /* Vector */,
+			);
+			name = "kenney_animal-pack-redux";
+			path = "../../../../Downloads/kenney_animal-pack-redux";
+			sourceTree = "<group>";
+		};
 		1B9AE3362CE4F5B200AE4EF0 = {
 			isa = PBXGroup;
 			children = (
@@ -53,6 +149,7 @@
 			children = (
 				1B9AE3422CE4F5B200AE4EF0 /* edutainmentApp.swift */,
 				1B9AE3442CE4F5B200AE4EF0 /* ContentView.swift */,
+				1B98A9AC2D0C811900306098 /* kenney_animal-pack-redux */,
 				1B9AE3462CE4F5B500AE4EF0 /* Assets.xcassets */,
 				1B9AE3482CE4F5B500AE4EF0 /* Preview Content */,
 			);
